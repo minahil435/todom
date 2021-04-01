@@ -1,3 +1,12 @@
 .complete {
   text-decoration: line-through;
 }
+.app{
+  margin: 20px;
+}
+.center{
+  margin-top: 20px;
+  display: flex;
+  justify-content:center;
+  gap: 12px;
+}
